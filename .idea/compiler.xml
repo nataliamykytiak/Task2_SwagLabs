@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Task2_SwagLabs" />
+        <module name="Task2_SwagLabs_PageFactory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Task2_SwagLabs" target="17" />
+      <module name="Task2_SwagLabs_PageFactory" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
